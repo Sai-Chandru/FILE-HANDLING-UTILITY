@@ -43,3 +43,5 @@ This task helped me understand how Java handles files and how file operations ar
 
 #OUTPUT
 
+
+![Image](https://github.com/user-attachments/assets/77d5bd80-b10f-47a0-85d8-a92ec7a55faf)
